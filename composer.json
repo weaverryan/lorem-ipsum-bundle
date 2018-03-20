@@ -1,5 +1,5 @@
 {
-    "name": "weaverryan/lorem-ipsum-bundle",
+    "name": "weaverryan_test/lorem-ipsum-bundle",
     "description": "Happy lorem ipsum",
     "type": "symfony-bundle",
     "license": "MIT",
